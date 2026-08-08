@@ -81,4 +81,4 @@ I built this project to demonstrate that I can:
 This project was built as part of my preparation for **Microsoft SC-300: Identity and Access Administrator**.
 
 ---
-📩 Feel free to connect with me on [LinkedIn](PASTE_LINKEDIN_LINK_HERE) if you'd like to discuss the design decisions behind this project.
+📩 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/kananelo-mohale/) if you'd like to discuss the design decisions behind this project.
