@@ -6,7 +6,7 @@
 ![Platforms](https://img.shields.io/badge/platforms-Okta%20%7C%20Microsoft%20Entra%20ID-blue)
 ![Scenario](https://img.shields.io/badge/scenario-M%26A%20Integration-yellow)
 
-▶️ **Demo Video:** [Watch on YouTube](PASTE_YOUTUBE_LINK_HERE)
+
 
 ---
 
